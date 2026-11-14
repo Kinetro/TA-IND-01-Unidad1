@@ -1,0 +1,51 @@
+Information for Stream PRUEBA_R3 created 2026-11-14 02:13:31
+
+                     Subjects: replica.>
+                     Replicas: 3
+                      Storage: File
+
+Options:
+
+                    Retention: Limits
+              Acknowledgments: true
+               Discard Policy: Old
+             Duplicate Window: 2m0s
+                   Direct Get: true
+  Allows Atomic Batch Publish: false
+    Allows Fast Batch Publish: false
+              Allows Counters: false
+            Allows Msg Delete: true
+       Allows Per-Message TTL: false
+                 Allows Purge: true
+             Allows Schedules: false
+               Allows Rollups: false
+
+Limits:
+
+             Maximum Messages: unlimited
+          Maximum Per Subject: unlimited
+                Maximum Bytes: unlimited
+                  Maximum Age: unlimited
+         Maximum Message Size: unlimited
+            Maximum Consumers: unlimited
+
+Cluster Information:
+
+                         Name: laboratorio
+      Cluster Traffic Account: System Account
+                Cluster Group: S-R3F-MtgHrQSZ
+                       Leader: nodo3 (40m13s)
+                      Replica: nodo1, current, seen 395ms ago
+                      Replica: nodo2, current, seen 395ms ago
+
+State:
+
+                 Host Version: 2.15.3
+           Required API Level: 0 hosted at level 5
+                     Messages: 3
+                        Bytes: 216 B
+               First Sequence: 1 @ 2026-11-14 02:51:50
+                Last Sequence: 3 @ 2026-11-14 02:51:51
+             Active Consumers: 0
+           Number of Subjects: 1
+

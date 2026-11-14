@@ -65,5 +65,28 @@ Se revisaron los conceptos de la arquitectura y se representó gráficamente la 
 ### Tiempo dedicado
 1 hora.
 
+---
+
+## Sesión 4 — 14-11-2026
+
+### Actividades realizadas
+- Se enviaron tres mensajes al flujo replicado PRUEBA_R3.
+- Se verificó el almacenamiento y recuperación de los mensajes.
+- Se simuló la caída del nodo líder (nodo3).
+- Se comprobó que nodo1 asumió el liderazgo y el sistema continuó funcionando.
+- Se envió un cuarto mensaje durante el fallo.
+- Se reinició nodo3 y se verificó su sincronización.
+- Se documentaron los comandos, resultados y evidencias del experimento.
+
+### Problemas encontrados
+No se presentaron errores durante la ejecución del experimento.
+
+### Soluciones aplicadas
+No fue necesario aplicar correcciones.
+
+### Tiempo dedicado
+1 hora.
+
 ### Próxima actividad
-Enviar mensajes al flujo replicado y realizar una prueba de tolerancia a fallos mediante la caída y recuperación de un nodo.
+Elaborar el diagrama definitivo de arquitectura en draw.io.
+
