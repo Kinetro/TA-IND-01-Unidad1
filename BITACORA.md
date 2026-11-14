@@ -153,8 +153,29 @@ No fue necesario aplicar correcciones.
 ### Tiempo dedicado
 4 horas.
 
+
+## Sesión 9 — 15-11-2026
+
+### Actividades realizadas
+- Se realizó la revisión final del informe académico en LaTeX.
+- Se incorporaron los ejemplos personales de Jóvenes en Acción y WhatsApp.
+- Se verificó la coherencia entre el análisis técnico, las referencias y las evidencias experimentales.
+- Se corrigieron detalles de redacción y se comprobó la compilación del PDF.
+- Se preparó y grabó el video de sustentación del experimento.
+- Se actualizó el README con el enlace al video y las instrucciones de compilación.
+- Se organizaron los archivos del repositorio para la entrega.
+
+### Problemas encontrados
+Se identificaron algunos textos pendientes y repeticiones en el informe que debían corregirse antes de la entrega.
+
+### Soluciones aplicadas
+Se completaron las secciones faltantes, se revisó el contenido y se verificó que el documento compilara correctamente.
+
+### Tiempo dedicado
+2 horas.
+
 ### Próxima actividad
-Incorporar la experimentación detallada, los ejemplos del entorno, la comparación con Apache Pulsar y las conclusiones.
+Verificar el repositorio público, comprobar el historial de commits y entregar el PDF de identificación en el SGA.
 
 
 
