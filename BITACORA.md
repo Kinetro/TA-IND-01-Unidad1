@@ -127,8 +127,35 @@ No fue necesario aplicar correcciones.
 ### Tiempo dedicado
 40 minutos.
 
+---
+
+## Sesión 7 — 14-11-2026
+
+### Actividades realizadas
+- Se desarrolló el análisis de transparencias de distribución, CAP, PACELC y modelos de comunicación de NATS JetStream.
+- Se analizó la tolerancia a fallos mediante replicación, consenso Raft y elección del líder.
+- Se revisó la coherencia entre las afirmaciones del informe, las fuentes bibliográficas y los resultados experimentales.
+- Se incorporaron citas científicas para fortalecer la fundamentación del análisis.
+- Se corrigieron las explicaciones sobre migración y reubicación de réplicas.
+- Se integró el diagrama definitivo y se ajustaron las rutas de los anexos.
+- Se corrigieron problemas de formato y se verificó la compilación del documento en LaTeX.
+
+### Problemas encontrados
+- Algunas afirmaciones necesitaban mayor respaldo bibliográfico.
+- El diagrama no aparecía en el PDF por diferencias en las rutas de los archivos.
+- Se identificaron imprecisiones conceptuales y problemas de formato en una tabla.
+
+### Soluciones aplicadas
+- Se contrastó el contenido con artículos científicos y documentación oficial.
+- Se corrigieron las rutas de las imágenes y la presentación de la tabla.
+- Se precisaron los conceptos técnicos y se comprobó nuevamente la compilación del informe.
+
+### Tiempo dedicado
+4 horas.
+
 ### Próxima actividad
-Desarrollar el análisis técnico y comparativo de NATS JetStream y Apache Pulsar en LaTeX.
+Incorporar la experimentación detallada, los ejemplos del entorno, la comparación con Apache Pulsar y las conclusiones.
+
 
 
 
