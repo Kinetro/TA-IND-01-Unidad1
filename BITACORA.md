@@ -107,7 +107,28 @@ Se complementaron las publicaciones científicas con documentación técnica ofi
 ### Tiempo dedicado
 1 hora.
 
+---
+
+## Sesión 6 — 14-11-2026
+
+### Actividades realizadas
+- Se elaboró el diagrama digital de la arquitectura de NATS JetStream en draw.io.
+- Se representaron los tres nodos del clúster y sus puertos de comunicación.
+- Se identificó el flujo PRUEBA_R3 y su replicación mediante Raft.
+- Se documentó el cambio de líder observado durante el experimento.
+- Se preparó el diagrama para incorporarlo al informe académico.
+
+### Problemas encontrados
+No se presentaron dificultades importantes.
+
+### Soluciones aplicadas
+No fue necesario aplicar correcciones.
+
+### Tiempo dedicado
+40 minutos.
+
 ### Próxima actividad
-Elaborar el diagrama definitivo de arquitectura de NATS JetStream en draw.io.
+Desarrollar el análisis técnico y comparativo de NATS JetStream y Apache Pulsar en LaTeX.
+
 
 
