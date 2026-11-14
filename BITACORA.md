@@ -39,5 +39,31 @@ Se revisaron los conceptos de la arquitectura y se representó gráficamente la 
 ### Tiempo dedicado
 1 hora.
 
+---
+
+## Sesión 3 — 14-11-2026
+
+### Actividades realizadas
+- Se instalaron NATS Server y NATS CLI en CachyOS.
+- Se verificó el funcionamiento de JetStream mediante el almacenamiento de un mensaje.
+- Se configuró un clúster local de tres nodos utilizando los puertos 4222, 4223 y 4224.
+- Se creó el flujo PRUEBA_R3 con tres réplicas.
+- Se comprobó que nodo3 asumió el liderazgo y que nodo1 y nodo2 estaban sincronizados.
+- Se guardaron capturas de la instalación y las pruebas realizadas.
+- Se corrigió el esquema inicial de NATS JetStream.
+- Se añadieron los datos de identificación al dibujo.
+- Se preparó la fotografía definitiva para el Anexo A.
+
+### Problemas encontrados
+- JetStream no iniciaba porque faltaban rutas de comunicación entre los nodos.
+- El comando de monitoreo requería permisos de la cuenta SYS.
+
+### Soluciones aplicadas
+- Se configuraron las rutas para permitir la conexión entre los tres nodos.
+- Se utilizó `nats stream info PRUEBA_R3` para verificar el estado de las réplicas.
+
+### Tiempo dedicado
+1 hora.
+
 ### Próxima actividad
-Instalar NATS JetStream en CachyOS y preparar el entorno para las pruebas de tolerancia a fallos.
+Enviar mensajes al flujo replicado y realizar una prueba de tolerancia a fallos mediante la caída y recuperación de un nodo.
