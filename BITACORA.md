@@ -87,6 +87,27 @@ No fue necesario aplicar correcciones.
 ### Tiempo dedicado
 1 hora.
 
+---
+
+## Sesión 5 — 14-11-2026
+
+### Actividades realizadas
+- Se buscaron y revisaron artículos científicos relacionados con NATS JetStream y Apache Pulsar.
+- Se seleccionaron fuentes para fundamentar el análisis técnico y comparativo.
+- Se identificaron y subrayaron fragmentos relevantes de tres artículos científicos.
+- Se guardaron las tres capturas correspondientes al Anexo B.
+- Se preparó el archivo referencias.bib con siete referencias bibliográficas.
+
+### Problemas encontrados
+Algunos artículos abordaban los sistemas de manera general y no explicaban directamente todos los conceptos de la Unidad 1.
+
+### Soluciones aplicadas
+Se complementaron las publicaciones científicas con documentación técnica oficial de NATS y Apache Pulsar.
+
+### Tiempo dedicado
+1 hora.
+
 ### Próxima actividad
-Elaborar el diagrama definitivo de arquitectura en draw.io.
+Elaborar el diagrama definitivo de arquitectura de NATS JetStream en draw.io.
+
 
